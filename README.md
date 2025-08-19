@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shammyshammy
-- 👀 I’m interested in ... web development, that is HTML, CSS and JAVASCRIPT etc
-- 🌱 I’m currently learning ... JAVASCRIPT 
+- 👀 I’m a FullStack Web Developer, that work with HTML, CSS, JAVASCRIPT, Vanilla PHP and Laravel
+- 🌱 I’m currently learning ... CODEIGNITER
 - 💞️ I’m looking to collaborate on ... Anything web development haha
 - 📫 How to reach me ... my socials 
 
