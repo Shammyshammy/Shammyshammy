@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Shammyshammy
+- 👋 Hi
 - 👀 I’m a FullStack Web Developer, that work with HTML, CSS, JAVASCRIPT, Vanilla PHP and Laravel
-- 🌱 I’m currently learning ... CODEIGNITER
-- 💞️ I’m looking to collaborate on ... Anything web development haha
+- 🌱 I’m currently working on ... CODEIGNITER
+- 💞️ I’m looking to collaborate on ... Anything web development. 
 - 📫 How to reach me ... my socials 
 
 <!---
