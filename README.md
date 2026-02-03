@@ -28,12 +28,32 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-## 📊 GitHub Stats
+
+## 📫 Let's Connect
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://sam-devportfol.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-opuene-20749a245?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samdevlive@gmail.com)
+
+## 📝 Currently Learning
+- ✅ **Mastering:** CodeIgniter 4
+- 📚 **Exploring:** API Development best practices
+- 🔜 **Next:** React.js (to complement PHP backend skills)
+
+## 🤝 Looking to Collaborate On
+- Enterprise PHP/Laravel applications
+- E-commerce solutions
+- CMS development
+- API integrations
+- Startups
+- Project Managements and many more...
+
+---
 
 <div align="center">
   
-![Shammy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shammyshammy&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shammyshammy&layout=compact&theme=radical&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com/?user=Shammyshammy&theme=radical&hide_border=true)
+⭐ **"Clean code, clear solutions, and client satisfaction"** ⭐
+
+</div>
 
 </div>
