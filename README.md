@@ -64,6 +64,12 @@ A comprehensive Laravel-based project management system with:
 - Scalable web applications
 - Open source contributions
 
+## 💼 Open to Opportunities
+I'm currently actively seeking **Full Stack / Backend Developer** roles anywhere.
+
+📧 **Reach me:** samdevlive@gmail.com
+🔗 **Portfolio:** https://sam-devportfol.netlify.app/
+
 ---
 
 <div align="center">
