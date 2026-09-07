@@ -46,7 +46,7 @@ A comprehensive Laravel-based project management system with:
 
 ## 📫 Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://sam-devportfol.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://sammydev-rosy.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-opuene-20749a245?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samdevlive@gmail.com)
 
